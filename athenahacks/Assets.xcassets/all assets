@@ -1,0 +1,48 @@
+/* com.apple.actool.catalog-contents */
+filename: Assets.xcassets
+children:           
+          filename: AccentColor.colorset
+          
+          filename: AppIcon.appiconset
+          children:                     
+                    filename: Screenshot 2024-03-03 at 10.14.12 AM.png
+                    platform: ios
+                    idiom: universal
+                    size: 1024x1024
+                    image: 
+                           height: 512
+                           width: 512
+          
+          filename: Background.colorset
+          
+          filename: background1.imageset
+          children:                     
+                    filename: background1.png
+                    idiom: universal
+                    scale: 1x
+                    image: 
+                           height: 818
+                           width: 320
+          
+          filename: background2.imageset
+          children:                     
+                    filename: background2.png
+                    idiom: universal
+                    scale: 1x
+                    image: 
+                           height: 474
+                           width: 320
+          
+          filename: DarkAccentColor.colorset
+          
+          filename: LightAccentColor.colorset
+          
+          filename: safeCircle.imageset
+          children:                     
+                    filename: Screenshot 2024-03-03 at 10.21.34 AM.png
+                    idiom: universal
+                    scale: 1x
+                    image: 
+                           height: 269.5
+                           width: 271
+
